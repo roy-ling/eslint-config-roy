@@ -11,7 +11,7 @@
     "eslint"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@roy-ling"
   },
   "repository": {
     "type": "git",

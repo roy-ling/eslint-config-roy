@@ -1,0 +1,22 @@
+{
+  "name": "@roy-ling/eslint-config-roy",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roy-ling/eslint-config-roy.git"
+  },
+  "author": "Roy",
+  "license": "ISC"
+}
